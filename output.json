@@ -1,0 +1,47 @@
+{
+  "PERSON": {
+    "NAME": " John Doe ",
+    "AGE": 30,
+    "SKILLS": [
+      "python",
+      "JAVASCRIPT",
+      "C++"
+    ],
+    "CONTACTDETAILS": {
+      "EMAIL": "johndoe@example.com",
+      "PHONE": "+123456789"
+    }
+  },
+  "COMPANY": {
+    "NAME": " Tech Solutions Inc.",
+    "LOCATION": " San Francisco",
+    "DEPARTMENTS": [
+      {
+        "NAME": "Development",
+        "EMPLOYEES": 50,
+        "PROJECTS": [
+          "Web App",
+          " Mobile App "
+        ]
+      },
+      {
+        "NAME": " Marketing",
+        "EMPLOYEES": 20,
+        "PROJECTS": [
+          "SEO Optimization",
+          "Social Media Campaigns"
+        ]
+      }
+    ]
+  },
+  "SETTINGS": {
+    "THEME": "dark",
+    "NOTIFICATIONSENABLED": true,
+    "LANGUAGES": [
+      "English",
+      "Spanish",
+      " German "
+    ]
+  },
+  "COMPILEDAT": "2024-12-04T18:59:11.361930"
+}
